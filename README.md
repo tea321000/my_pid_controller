@@ -1,1 +1,2 @@
 # my_pid_controller
+pid_controller为位置式PID，inc_pid_controller为增量式PID，feedback_pid_controller为负反馈式PID
